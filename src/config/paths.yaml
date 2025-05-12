@@ -1,0 +1,13 @@
+# Data base path
+data_base_folder_path: '../db/user_chats'
+
+# Static assets path
+statics:
+    folder_path: '../www'
+    logo_file_name: 'my_logo.png'
+
+# Styles css file path
+styles_file_path: '../css/styles.css'
+
+# Tesseract path
+tesseract_exe_path: 'C:/path/to//Tesseract-OCR/tesseract.exe'

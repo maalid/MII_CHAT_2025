@@ -1,0 +1,3 @@
+# Default LLM parameters
+default_llm:
+  model_name: 'gpt-4o'
