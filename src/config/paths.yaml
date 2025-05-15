@@ -10,4 +10,4 @@ statics:
 styles_file_path: '../css/styles.css'
 
 # Tesseract path
-tesseract_exe_path: 'C:/path/to//Tesseract-OCR/tesseract.exe'
+tesseract_exe_path: 'C:/path/to/Tesseract-OCR/tesseract.exe'
