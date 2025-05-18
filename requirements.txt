@@ -3,7 +3,7 @@ anyio==4.9.0
 appdirs==1.4.4
 asgiref==3.8.1
 certifi==2025.4.26
-click==8.1.8
+click==8.2.0
 colorama==0.4.6
 distro==1.9.0
 dotenv==0.9.9
@@ -12,13 +12,13 @@ htmltools==0.6.0
 httpcore==1.0.9
 httpx==0.28.1
 idna==3.10
-jiter==0.9.0
+jiter==0.10.0
 linkify-it-py==2.0.3
 markdown-it-py==3.0.0
 mdit-py-plugins==0.4.2
 mdurl==0.1.2
-narwhals==1.38.2
-openai==1.78.0
+narwhals==1.39.1
+openai==1.79.0
 orjson==3.10.18
 packaging==25.0
 pillow==11.2.1
@@ -31,7 +31,7 @@ python-dotenv==1.1.0
 python-multipart==0.0.20
 PyYAML==6.0.2
 questionary==2.1.0
-setuptools==80.3.1
+setuptools==80.4.0
 shiny==1.4.0
 sniffio==1.3.1
 starlette==0.46.2
