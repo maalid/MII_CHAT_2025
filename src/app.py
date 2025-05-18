@@ -35,7 +35,7 @@ app_ui = ui.page_sidebar(
         ui.input_action_button(id="new_chat", label="➕ Nuevo Chat", lass_="button-new"),
         ui.output_ui(id="saved_chats_ui")
     ),
-    ui.include_css(path=css_file_path),
+    ui.include_css(path=styles_file_path),
     ui.div(ui.img(src=f"/{logo_file_name}", height="90px"), style="margin-bottom: 0.5rem;"),
     ui.div(
         ui.output_ui("chat_area"),
